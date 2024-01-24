@@ -15,7 +15,7 @@ import { ref } from 'vue';
 import shopify from '../assets/shopify.png'
 import Coinbase from '../assets/Coinbase.png'
 import Dropbox from '../assets/Dropbox.png'
-import intercom from '../assets/intercom.png'
+import intercom from '../assets/Intercom.png'
 import marvel from '../assets/marvel.png'
 import auto from '../assets/auto.png'
     const partners = ref([
