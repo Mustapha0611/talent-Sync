@@ -13,7 +13,7 @@
                 </p>
                 <div class="flex justify-between">
                     <section class="flex items-center gap-2">
-                        <img src="../assets/avatar.png" alt="">
+                        <img src="../assets/Avatar.png" alt="">
                         <div>
                             <p class="font-semibold text-gray-900">Sarah Thompson</p>
                             <p class="text-gray-600 text-sm">Project Manager, Shopify</p>
